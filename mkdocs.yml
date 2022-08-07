@@ -65,5 +65,5 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-repo_url: https://github.com/notkenzotayko/vatphil-knowledgebase
-repo_name: vatsimph/knowledgebase
+repo_url: https://github.com/vatsimph/learn
+repo_name: vatsimph/learn
