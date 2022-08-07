@@ -1,0 +1,6 @@
+nav:
+    - Welcome: index.md
+    - Pilots: pilots
+    - Controllers: atc
+    - NOTAMS: notams
+    - More Resources: more-resources.md
