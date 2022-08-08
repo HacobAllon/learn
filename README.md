@@ -1,7 +1,7 @@
 # Philippines vACC Knowledge Base
 The central learning repository of observers, controllers, and pilots flying in and out of the Philippine Airspace This was inspired by [Gander Oceanic](https://github.com/czqo) through their knowledge base site, which was made through the open-source documentation of [MkDocs](https://github.com/squidfunk/mkdocs-material) primarily developed by Martin Donath ([squidfunk](https://github.com/squidfunk)).
 
-This is a reference guide to the procedures and systems used by the Philippine Airspace and the Manila Area Control Center (ACC). As per the quest to improve all of the lesson-based materials within our vACC, we proudly inform everyone that this repository will be open-source and, thus, editing of files for the mere reason of development is very much encouraged. (Kindly see the [Contribution](https://github.com/vatsimph/learn/README.md#contribute) section of this page to know more.)
+This is a reference guide to the procedures and systems used by the Philippine Airspace and the Manila Area Control Center (ACC). As per the quest to improve all of the lesson-based materials within our vACC, we proudly inform everyone that this repository will be open-source and, thus, editing of files for the mere reason of development is very much encouraged. (Kindly see the [Contribution](https://github.com/vatsimph/learn#contribute) section of this page to know more.)
 
 Kindly take note that the whole page is still **under construction** and should not be used for the time being until we complete the necessary competencies set out in each section. If you would like to request or add details within a topic, feel free to open it [here](https://github.com/vatsimph/learn/issues).
 
