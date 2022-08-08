@@ -10,6 +10,12 @@ the following information:
 Example: **“Manila Delivery, Philippine 123 on bay 35, Airbus 3-2-0, Information Alpha, requesting
 clearance to Hong Kong”**
 
+!!! warning
+
+    Radio Checks on first contact is **discouraged** to use when building communication with the controller. It's best to greet or ask the controller, should you need any help before clearance issuance.
+
+    The goal here is to be straightforward (Get to the point) and concise as possible when communicating within a controlled frequency. 
+
 Once you have requested for clearance, the controller will either tell you to standby, or give your
 clearance on the spot. Clearances include your routing, flight level restrictions, departure
 instructions and your squawk.
