@@ -2,7 +2,7 @@
 
 #### Download and install the Hoppie's ATC client
 
-You need the Hoppie's ATC client (not easyCPDLC or TopSky!) to use CPDLC in oceanic controlling.
+You need the Hoppie's ATC client (not easyCPDLC or TopSky!) to use CPDLC in controlling.
 
 [Download Hoppie's](https://www.hoppie.nl/acars/prg/atc/){ .md-button }
 
