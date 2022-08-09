@@ -18,13 +18,13 @@ Logging in to the Control Panel is as easy as 1-2-3! You just need to simply go 
 
 ![Control Panel - DashTab](/assets/diagram/cc-2.png)
 
-We're almost there! You just need to input the following details such as ```Date```, ```Time (Start and End in Local Time)```, and ```Position```. After that, select the type of session that you want to book and click **Add Booking**.
+We're almost there! You just need to input the following details such as ```Date```, ```Time (Start and End in Z)```, and ```Position```. After that, select the type of session that you want to book and click **Add Booking**.
 
 !!! warning
 
-    When entering the time, kindly use the format in **PhST** or **Philippine Standard Time**. We are currently fixing the system to utilize time in Zulu rather than the said type of time standard.
+    When entering the time, kindly use your phone when inputting. The clock system is currently available on mobile phones only. 
 
-    You may refer to the time [here](https://www.timeanddate.com/worldclock/philippines/manila) when you are booking a session.
+    You may contact any of our staff, should you have any problems booking a session.
 
 
 ![Control Panel - Booking](/assets/diagram/cb-1.png)
